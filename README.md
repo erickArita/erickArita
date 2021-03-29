@@ -1,6 +1,4 @@
 - 👋 Hola, soy @erickArita  📌 Soy de Honduras, me encanta la programación .
-- Soy fanático del mundo tech y todo lo relacionado con el software  
-  me encanta aprender cosas nuevas y enfrentarme a grandes retos.
 - 👀 Estoy interesado en el desarrollo frontend y backend con JavaScript.
 - 🤓 Actualmente estoy aplendiendo nextjs, ya poseo conocimientos en react y node.
 - 📞 Puedes encontrarme en:   
