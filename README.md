@@ -9,8 +9,11 @@ Puedes ver algunos de mis proyectos
 
 - Aplicación para matricula de estudiantes    
     👨‍💻 [codigo](https://github.com/erickArita/matricula-app)  
-    🚀[App](https://erickarita.github.io/docs/')
-
+    🚀[App](https://erickarita.github.io/docs/')  
+    
+Debes loguearte como administrador toma una cuenta de prueba  
+email: admin@admin.com  
+password: !@#admin1020
 - Pagina web de club Dame tu Mano   
     👨‍💻[codigo](https://github.com/erickArita/dametumano)  
     🚀[web](https://erickarita.github.io/dametumano/)
