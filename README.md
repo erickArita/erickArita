@@ -11,7 +11,7 @@ Puedes ver algunos de mis proyectos
     👨‍💻 [codigo](https://github.com/erickArita/matricula-app)  
     🚀[App](https://erickarita.github.io/docs/')  
     
-Debes loguearte como administrador toma una cuenta de prueba  
+Si quieres entrar como admin debes toma una cuenta de prueba  
 email: admin@admin.com  
 password: !@#admin1020
 - Pagina web de club Dame tu Mano   
