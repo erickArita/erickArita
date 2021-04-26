@@ -7,6 +7,10 @@
 <hr/>
 Puedes ver algunos de mis proyectos  
 
+- Web para un restaurante     
+    👨‍💻 [codigo](https://github.com/erickArita/litle-coffe)  
+    🚀[web](https://littlecoffeesr.vercel.app/')  
+    
 - Aplicación para matricula de estudiantes    
     👨‍💻 [codigo](https://github.com/erickArita/matricula-app)  
     🚀[App](https://erickarita.github.io/docs/')  
