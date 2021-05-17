@@ -7,6 +7,10 @@
 <hr/>
 Puedes ver algunos de mis proyectos  
 
+- Mi Portafolio   
+    👨‍💻 [codigo](https://github.com/erickArita/portafolio-next)  
+    🚀[web](https://erick-arita.vercel.app/)  
+
 - Web para un restaurante     
     👨‍💻 [codigo](https://github.com/erickArita/litle-coffe)  
     🚀[web](https://littlecoffeesr.vercel.app/)  
