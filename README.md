@@ -1,30 +1,27 @@
-- 👋 Hola, soy @erickArita  📌 Soy de Honduras, me encanta la programación .
+## 👋 Hola, soy @erickArita 
+- 📌 Soy de Honduras, me encanta la programación .
 - 👀 Estoy interesado en el desarrollo frontend y backend con JavaScript.
 - 🤓 Actualmente estoy aplendiendo nextjs, ya poseo conocimientos en react y node.
 - 📞 Puedes encontrarme en:   
-[linkedin](https://www.linkedin.com/in/erickarita/)  
-[torre](https://torre.co/en/erickemao)
-<hr/>
-Puedes ver algunos de mis proyectos  
+    - [linkedin](https://www.linkedin.com/in/erickarita/)  
+    - [torre](https://torre.co/en/erickemao)
 
-- Mi Portafolio   
-    👨‍💻 [codigo](https://github.com/erickArita/portafolio-next)  
-    🚀[web](https://erick-arita.vercel.app/)  
+## Puedes ver algunos de mis proyectos  
 
-- Web para un restaurante     
-    👨‍💻 [codigo](https://github.com/erickArita/litle-coffe)  
-    🚀[web](https://littlecoffeesr.vercel.app/)  
-    
-- Aplicación para matricula de estudiantes    
-    👨‍💻 [codigo](https://github.com/erickArita/matricula-app)  
-    🚀[App](https://erickarita.github.io/docs/)  
-    
-Si quieres entrar como admin debes toma una cuenta de prueba  
-email: admin@admin.com  
-password: !@#admin1020
-- Pagina web de club Dame tu Mano   
-    👨‍💻[codigo](https://github.com/erickArita/dametumano)  
-    🚀[web](https://erickarita.github.io/dametumano/)
+| Proyectos |  👨‍💻Código | 🚀web | Descripción |
+| ---------- | :------:  | -----  | --- |
+| Mi Portafolio | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickArita&repo=portafolio-next)](https://github.com/erickArita/portafolio-next) | [Web](https://erick-arita.vercel.app/) | Portafolio Web creado con next y styled-jsx. |
+|  Web para un restaurante |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickArita&repo=litle-coffe)](https://github.com/erickArita/litle-coffe)  |  [Web](https://littlecoffeesr.vercel.app/)| web para un restaurante creada con next |
+|   Club Dame tu Mano    |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickArita&repo=dametumano)](https://github.com/erickArita/dametumano)  | [Web](https://erickarita.github.io/dametumano/) | Web para una ONG vreada con gatsby  |
+|  Aplicación para matricula de estudiantes  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickArita&repo=matricula-app)](https://github.com/erickArita/matricula-app) | [Web](https://erickarita.github.io/docs/) | Aplicación para la matricula de estudiantes, creada con react, redux y firebase |
+
+# Estadisticas en Github
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickArita&hide=contribs&show_icons=true&count_private=true&theme=dracula)_________[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickArita&layout=compact)](https://github.com/erickArita/github-readme-stats)
+
+ 
+
+
+
 <!---
 
 erickArita/erickArita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
