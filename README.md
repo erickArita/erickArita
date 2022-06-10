@@ -1,7 +1,7 @@
 ## 👋 Hola, soy @erickArita 
 - 📌 Soy de Honduras, me encanta la programación .
+- 💻 Hago Frontend con React ts  
 - 👀 Estoy interesado en el desarrollo frontend y backend con JavaScript.
-- 🤓 Actualmente estoy aplendiendo nextjs, ya poseo conocimientos en react y node.
 - 📞 Puedes encontrarme en:   
     - [linkedin](https://www.linkedin.com/in/erickarita/)  
     - [torre](https://torre.co/en/erickemao)
