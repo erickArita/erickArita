@@ -18,10 +18,16 @@
 # Estadisticas en Github
 ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickArita&hide=contribs&show_icons=true&count_private=true&theme=dracula)_________[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickArita&layout=compact)](https://github.com/erickArita/github-readme-stats)
 
- 
+ <p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=erickArita&theme=tokyonight_duo&hide_border=true"
+</p>
 
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👀 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erickArita}/count.svg" /></p> 
+<br>
+</div>
 <!---
 
 erickArita/erickArita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
