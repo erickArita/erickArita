@@ -15,6 +15,10 @@
 |   Club Dame tu Mano    |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickArita&repo=dametumano)](https://github.com/erickArita/dametumano)  | [Web](https://erickarita.github.io/dametumano/) | Web para una ONG vreada con gatsby  |
 |  Aplicación para matricula de estudiantes  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickArita&repo=matricula-app)](https://github.com/erickArita/matricula-app) | [Web](https://erickarita.github.io/docs/) | Aplicación para la matricula de estudiantes, creada con react, redux y firebase |
 
+<h1 align="center">Github Metrics </h1><p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erickArita&theme=github_dark" />
+</p>
+
 # Estadisticas en Github
 ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickArita&hide=contribs&show_icons=true&count_private=true&theme=dracula)_________[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickArita&layout=compact)](https://github.com/erickArita/github-readme-stats)
 
